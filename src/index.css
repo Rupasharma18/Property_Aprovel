@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.makeStyles-root-18 {
+margin-top: 5% ;
+}
+
+.MuiGrid-spacing-xs-3{
+  padding: 30px ; 
+}
+
+.MuiAlert-filledSuccess {
+  margin-bottom: 71px;
+}
+
+.MuiButton-text{
+  color: white !important;
+  text-decoration: none !important;
+  font-weight: bold;
+
+}
